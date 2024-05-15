@@ -1,4 +1,4 @@
-a=int(input("Enter a no.:"))
+a=int(input("Enter a number.:"))
 def fn(x):
     flag=0
     if(x>1):
